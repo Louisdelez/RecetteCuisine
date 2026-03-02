@@ -1,0 +1,7 @@
+services:
+  carnet-gourmand:
+    build: .
+    container_name: carnet-gourmand
+    ports:
+      - "8080:80"
+    restart: unless-stopped
