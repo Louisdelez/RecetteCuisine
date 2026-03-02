@@ -4,9 +4,17 @@ Application web de gestion de recettes de cuisine avec authentification, stockag
 
 ## Apercu
 
+### Desktop
+
 | Mode clair | Mode sombre |
 |:---:|:---:|
-| ![Light mode](public/screenshots/light.png) | ![Dark mode](public/screenshots/dark.png) |
+| ![Desktop light](public/screenshots/desktop-light.png) | ![Desktop dark](public/screenshots/desktop-dark.png) |
+
+### Mobile
+
+| Mode clair | Mode sombre |
+|:---:|:---:|
+| ![Mobile light](public/screenshots/light.png) | ![Mobile dark](public/screenshots/dark.png) |
 
 ## Fonctionnalites
 
