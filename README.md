@@ -2,6 +2,12 @@
 
 Application web de gestion de recettes de cuisine avec authentification, stockage cloud et interface traduite en 5 langues.
 
+## Apercu
+
+| Mode clair | Mode sombre |
+|:---:|:---:|
+| ![Light mode](public/screenshots/light.png) | ![Dark mode](public/screenshots/dark.png) |
+
 ## Fonctionnalites
 
 - **Recettes en Markdown** — Editeur avec apercu en temps reel, export Markdown et PDF
